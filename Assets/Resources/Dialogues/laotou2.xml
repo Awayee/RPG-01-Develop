@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogues>
+  <say>
+    <name>老人</name>
+    <direction>1</direction>
+    <detail>梁溪城已经到了，这一路上幸苦恩公了！</detail>
+    <sprite>laotou</sprite>
+  </say>
+  <say>
+    <name>陆千回</name>
+    <direction>0</direction>
+    <detail>小事一桩，不足挂齿！</detail>
+  </say>
+
+  <say>
+    <name>陆千回</name>
+    <direction>0</direction>
+    <detail>老人家，您说的那位通晓印泥人之术的商人，住在什么地方？</detail>
+  </say>
+
+  <say>
+    <name>老人</name>
+    <direction>1</direction>
+    <detail>哎，你瞧我这记性！</detail>
+    <sprite>laotou</sprite>
+  </say>
+  <say>
+    <name>老人</name>
+    <direction>1</direction>
+    <detail>你走过桥，到对面的最左边的一家商铺就是了。</detail>
+    <sprite>laotou</sprite>
+  </say>
+  <say>
+    <name>老人</name>
+    <direction>1</direction>
+    <detail>老身我还要赶去找我那不争气的儿子，就不陪你一道了。</detail>
+    <sprite>laotou</sprite>
+  </say>
+
+  <say>
+    <name>陆千回</name>
+    <direction>0</direction>
+    <detail>好的，老人家慢走。</detail>
+  </say>
+  <say>
+    <name>老人</name>
+    <direction>1</direction>
+    <detail>英雄保重。</detail>
+  </say>
+</dialogues>

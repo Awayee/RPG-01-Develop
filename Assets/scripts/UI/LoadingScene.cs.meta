@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7d38ac4f533d9ab48b8091f0b4f28909
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - loadScenePanel: {fileID: 114207895021509378, guid: 8f0a6db6ab72be042a201b49dd9a5080,
+      type: 2}
+  - progressImg: {fileID: 114809260541728328, guid: 8f0a6db6ab72be042a201b49dd9a5080,
+      type: 2}
+  - loadingText: {fileID: 114258677661828102, guid: 8f0a6db6ab72be042a201b49dd9a5080,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

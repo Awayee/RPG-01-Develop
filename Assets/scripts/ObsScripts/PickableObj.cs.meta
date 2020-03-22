@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 40891b15ef3fdbe4c9399ce852ed8db5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bagmanager: {instanceID: 0}
+  - pickButton: {fileID: 1599458352580954, guid: 09cc84d8d74ecbf4b834689479becddc,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

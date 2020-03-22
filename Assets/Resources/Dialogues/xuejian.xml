@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogues>
+  
+  <say>
+    <name>景天</name>
+    <direction>0</direction>
+    <detail>我叫景天，风景的景，天空的天。</detail>
+  </say>
+
+  <say>
+    <name>雪见</name>
+    <direction>1</direction>
+    <detail>我叫唐雪见。</detail>
+  </say>
+
+  <say>
+    <name>景天</name>
+    <direction>0</direction>
+    <detail>我是永安当的伙计。</detail>
+  </say>
+
+  <say>
+    <name>雪见</name>
+    <direction>1</direction>
+    <detail>我可是唐家大小姐。</detail>
+  </say>
+  
+</dialogues>

@@ -6,12 +6,19 @@ bin-release/
 
 # Other files and folders
 .settings/
+.vscode/
+[Ll]ibrary/
+[Oo]bj/
+[Pp]ackages/
+[Tt]emp/
 
 # Executables
 *.swf
 *.air
 *.ipa
 *.apk
+*.csproj
+*.sln
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important

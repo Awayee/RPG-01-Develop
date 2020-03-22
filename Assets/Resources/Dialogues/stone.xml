@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogues>
+  
+  <say>
+    <name>石碑</name>
+    <direction>0</direction>
+    <detail>石碑上歪斜地刻着三个字：绿阶林。</detail>
+  </say>
+
+  <say>
+    <name>陆千回</name>
+    <direction>0</direction>
+    <detail>嗯……碑上的字似乎没刻多久……穿过这片林子应该能到梁溪了吧，唉——赶了一天的路，终于能够好好休息了。嗯？旁边还有字！</detail>
+  </say>
+
+  <say>
+    <name>石碑</name>
+    <direction>0</direction>
+    <detail>旁边的小字：荒林，时有妖兽出没，行者绕道。</detail>
+  </say>
+
+  <say>
+    <name>陆千回</name>
+    <direction>0</direction>
+    <detail>可恶，有妖怪么？这一路上遇到的意外已经够多了，这个时候竟然还有妖怪！</detail>
+  </say>
+
+  <say>
+    <name>陆千回</name>
+    <direction>0</direction>
+    <detail>不知道这些妖怪厉不厉害、好不好对付，要是像八荒岭上的树妖那么难缠，只怕我人没有到梁溪，就先暴尸荒野了。</detail>
+  </say>
+
+  <say>
+    <name>陆千回</name>
+    <direction>0</direction>
+    <detail>不，绝不能有这样的想法，村里人都等着我回去治病呢。我得尽快拿到灵药，所以今天必须赶到梁溪。</detail>
+  </say>
+
+  <say>
+    <name>陆千回</name>
+    <direction>0</direction>
+    <detail>好累……一路赶来，腿都麻了。天也快黑了，总不能一直在这林子里绕圈子，还是继续前进吧。大不了同妖怪拼命。</detail>
+  </say>
+
+   <say>
+    <name>不远处传来声音</name>
+    <direction>0</direction>
+    <detail>救命啊！</detail>
+  </say>
+
+    <say>
+    <name>陆千回</name>
+    <direction>0</direction>
+    <detail>谁在喊救命？这林子里还有人？</detail>
+  </say>
+
+  <say>
+    <name>不远处传来声音</name>
+    <direction>0</direction>
+    <detail>有没有人，救救我！</detail>
+  </say>
+
+  <say>
+    <name>陆千回</name>
+    <direction>0</direction>
+    <detail>听口音像是附近的村民。</detail>
+  </say>
+  <say>
+    <name>陆千回</name>
+    <direction>0</direction>
+    <detail>可恶，一定是妖怪在作乱。万恶的妖怪，只会欺负手无寸铁的老百姓，我说什么也要亲手杀了你们，为民除害！</detail>
+  </say>
+    <say>
+    <name>陆千回</name>
+    <direction>0</direction>
+    <detail>管他什么妖魔鬼怪有多厉害，尽管放马归来吧！</detail>
+  </say>
+
+</dialogues>

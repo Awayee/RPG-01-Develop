@@ -1,0 +1,12 @@
+﻿[
+  {
+    "ID": 1,
+    "name": "血瓶",
+    "Description": "用于恢复角色20点血量",
+    "buyPrice": 20,
+    "sellPrice": 10,
+    "Icon": "Sprites/Items/hp",
+    "backHp": 20,
+    "backMp": 0
+  }
+]

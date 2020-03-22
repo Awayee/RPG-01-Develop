@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogues>
+
+  <say>
+    <name>柳梦璃</name>
+    <direction>1</direction>
+    <detail>荷叶生时春恨生，荷叶枯时秋恨成。深知身在情长在，怅望江头江水声。</detail>
+  </say>
+
+  <say>
+    <name>不愿透露姓名的主角</name>
+    <direction>0</direction>
+    <detail>……真是一首好诗！</detail>
+  </say>
+
+  <say>
+    <name>柳梦璃</name>
+    <direction>1</direction>
+    <detail>不敢当。</detail>
+  </say>
+
+</dialogues>

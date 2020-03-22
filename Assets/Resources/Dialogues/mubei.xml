@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogues>
+
+  <say>
+    <name>不愿透露姓名的主角</name>
+    <direction>0</direction>
+    <detail>咳咳，简单说明一下，我是个住在这个山上的少年。</detail>
+  </say>
+
+  <say>
+    <name>不愿透露姓名的主角</name>
+    <direction>0</direction>
+    <detail>前边是我师傅的墓碑，对，我的师傅，就是人们印象中的武林大师。</detail>
+  </say>
+
+  <say>
+    <name>不愿透露姓名的主角</name>
+    <direction>0</direction>
+    <detail>只不过他老人家收我的时候，年事已高，我跟他学了这一身的武艺，还没来得及报答他老人家。</detail>
+  </say>
+  <say>
+    <name>不愿透露姓名的主角</name>
+    <direction>0</direction>
+    <detail>他老人家就先去了</detail>
+  </say>
+  <say>
+    <name>不愿透露姓名的主角</name>
+    <direction>0</direction>
+    <detail>师傅说，要锄强扶弱，帮助百姓，这才是学习武术的要义，可是，师傅已经去了。</detail>
+  </say>
+
+  <say>
+    <name>不愿透露姓名的主角</name>
+    <direction>0</direction>
+    <detail>师傅啊，师傅，我真的能成为像您一样的大侠吗？我都还没下过山呢…… 又没有什么锄强扶弱的机会……</detail>
+  </say>
+
+  <say>
+    <name>突然出现的老头</name>
+    <direction>1</direction>
+    <detail>哇！！！这是什么啊，有，有怪物啊！！！</detail>
+  </say>
+
+  <say>
+    <name>怪物</name>
+    <direction>1</direction>
+    <detail>咕咕咕咕……</detail>
+  </say>
+
+  <say>
+    <name>突然出现的老头</name>
+    <direction>1</direction>
+    <detail>怎么上个山遇上了这么一个怪物啊，别过来，别过来啊，我这么老，不好吃的！</detail>
+  </say>
+
+  <say>
+    <name>不愿透露姓名的主角</name>
+    <direction>0</direction>
+    <detail>机会来了！师傅！机会来了！</detail>
+  </say>
+
+  <say>
+    <name>不愿透露姓名的主角</name>
+    <direction>0</direction>
+    <detail>别怕老人家！我来啦！！！！</detail>
+  </say>
+
+  <say>
+    <name>不愿透露姓名的主角</name>
+    <direction>0</direction>
+    <detail>这山上竟然有怪物，那就先用我这一身的武功把怪物干掉吧！先去干掉怪物！</detail>
+  </say>
+</dialogues>

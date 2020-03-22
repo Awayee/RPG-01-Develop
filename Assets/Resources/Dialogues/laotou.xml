@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogues>
+  <say>
+    <name>老人</name>
+    <direction>1</direction>
+    <detail>多谢少侠！多谢少侠！要不是你即时敢到，我这把老骨头就要进那妖怪的肚子了。只是老头我身无分文，不知道要怎么感谢你才好。</detail>
+    <sprite>laotou</sprite>
+  </say>
+  <say>
+    <name>陆千回</name>
+    <direction>0</direction>
+    <detail>哈哈，老人家，您别少侠少侠地叫我了，怪不好意思的。</detail>
+  </say>
+
+  <say>
+    <name>陆千回</name>
+    <direction>0</direction>
+    <detail>我是从外地来的，刚好路过这里，路见不平拔刀相助，这是我应该做的，您就别说什么谢不谢的了。总不能让妖怪横行霸道吧。</detail>
+  </say>
+
+  <say>
+    <name>老人</name>
+    <direction>1</direction>
+    <detail>英雄你可真厉害，三拳两脚就制服了妖怪。这林子里的妖怪神出鬼没，害死了不少无辜的路人。老头我今天能遇上英雄，实在是太幸运了。</detail>
+    <sprite>laotou</sprite>
+  </say>
+
+  <say>
+    <name>陆千回</name>
+    <direction>0</direction>
+    <detail>呃……英雄……这个听起来也怪怪的……</detail>
+  </say>
+  <say>
+    <name>陆千回</name>
+    <direction>0</direction>
+    <detail>老人家你可别这么说。不过您为什么回一个人到这林子里来呢？</detail>
+  </say>
+
+  <say>
+    <name>老人</name>
+    <direction>1</direction>
+    <detail>老头我也是别无他法，我那个不孝子在城里闯了祸，我这当爹的总要管管，这才从村子里赶过去。</detail>
+    <sprite>laotou</sprite>
+  </say>
+
+  <say>
+    <name>老人</name>
+    <direction>1</direction>
+    <detail>这林子是村子通往城里的必经之路，就算有妖怪，老头我也只有赌一赌性命了。</detail>
+    <sprite>laotou</sprite>
+  </say>
+
+  <say>
+    <name>陆千回</name>
+    <direction>0</direction>
+    <detail>老人家您可真不容易。您说这林子通往城里，可正是梁溪城？</detail>
+  </say>
+
+  <say>
+    <name>老人</name>
+    <direction>1</direction>
+    <detail>没错，以前这林子是没有妖怪的，南来北往的游客很多。也就是几个月前，林子里死人的消息传遍了整个梁溪，那之后就很少有人走这条路了。</detail>
+    <sprite>laotou</sprite>
+  </say>
+
+  <say>
+    <name>陆千回</name>
+    <direction>0</direction>
+    <detail>太好了，老人家！我此行正要赶往梁溪城，不如这一路上就由我来护送您进程吧。</detail>
+  </say>
+
+  <say>
+    <name>老人</name>
+    <direction>1</direction>
+    <detail>那就有劳英雄了！英雄的大恩大德，老头子我也没什么可回报的，到了城里，我让我那不争气的儿子给你送上几锭银子作为盘缠吧！</detail>
+    <sprite>laotou</sprite>
+  </say>
+  <say>
+    <name>陆千回</name>
+    <direction>0</direction>
+    <detail>老人家您千万别这样。师父说，男子汉大丈夫，理应救人于危难。再说您本身就不容易，我就更不敢求什么回报了。</detail>
+  </say>
+  <say>
+    <name>老人</name>
+    <direction>1</direction>
+    <detail>这……这让老头子我怎么好意思……</detail>
+    <sprite>laotou</sprite>
+  </say>
+  <say>
+    <name>陆千回</name>
+    <direction>0</direction>
+    <detail>对了，老人家，您知不知道梁溪城里，一种叫“印泥人”的东西？</detail>
+  </say>
+  <say>
+    <name>老人</name>
+    <direction>1</direction>
+    <detail>泥人？那可太巧了，“印泥人”是用惠山的泥特制的人偶，那可是我们梁溪的特产啊。</detail>
+    <sprite>laotou</sprite>
+  </say>
+  <say>
+    <name>老人</name>
+    <direction>1</direction>
+    <detail>说起来，很久以前，老身就是靠做泥人贩卖谋生的……</detail>
+    <sprite>laotou</sprite>
+  </say>
+
+  <say>
+    <name>陆千回</name>
+    <direction>0</direction>
+    <detail>什么！？</detail>
+  </say>
+  <say>
+    <name>老人</name>
+    <direction>1</direction>
+    <detail>唉，只不过后来年纪大了，加上负了一身的债，就只好把家当卖全卖了。一晃几十年，现在也全然记不起来了。</detail>
+    <sprite>laotou</sprite>
+  </say>
+  <say>
+    <name>陆千回</name>
+    <direction>0</direction>
+    <detail>哦，原来如此。</detail>
+  </say>
+  <say>
+    <name>老人</name>
+    <direction>1</direction>
+    <detail>不过我可以给你介绍一个人，他一直在城里做生意，泥人的手艺，就是从他祖上传下来的。你找他一定没有问题。</detail>
+    <sprite>laotou</sprite>
+  </say>
+  <say>
+    <name>陆千回</name>
+    <direction>0</direction>
+    <detail>那真是太好了，在下感激不尽！</detail>
+  </say>
+  <say>
+    <name>老人</name>
+    <direction>1</direction>
+    <detail>唉，英雄你这么客气，老头子我可承担不起哟，跟你帮我做的这些比起来，老头子我的这些什么都算不上了。</detail>
+    <sprite>laotou</sprite>
+  </say>
+    <say>
+    <name>陆千回</name>
+    <direction>0</direction>
+    <detail>老人家，天色也不早了，我们这就出发吧！</detail>
+  </say>
+  <say>
+    <name>老人</name>
+    <direction>1</direction>
+    <detail>好嘞！</detail>
+    <sprite>laotou</sprite>
+  </say>
+
+</dialogues>

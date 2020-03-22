@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogues>
+
+  <say>
+    <name>村口的老头</name>
+    <direction>1</direction>
+    <detail>少侠，这里就是我们的村子了，还很漂亮吧……</detail>
+  </say>
+  <say>
+    <name>不愿透露姓名的主角</name>
+    <direction>0</direction>
+    <detail>是啊，好漂亮，我还是第一次来这样漂亮的地方，和山上感觉完全不一样……</detail>
+  </say>
+  <say>
+    <name>村口的老头</name>
+    <direction>1</direction>
+    <detail>我们村，就是以捏泥人为生，哎，就这村子里几乎所有人都知道关于泥人的知识，不信的话，你可以去找他们聊聊看…</detail>
+  </say>
+
+  <say>
+    <name>村口的老头</name>
+    <direction>1</direction>
+    <detail>哎，少侠，其实是这样，我们村子中最近总是有怪物出现……</detail>
+  </say>
+
+
+  <say>
+    <name>不愿透露姓名的主角</name>
+    <direction>0</direction>
+    <detail>是跟山上一样的怪物吗？嘿嘿，那就交给我吧，我三两下就可以把它们打趴下了！这样你们的问题不就解决了！</detail>
+  </say>
+
+  <say>
+    <name>村口的老头</name>
+    <direction>1</direction>
+    <detail>不是这样的少侠……哎，这些怪物奇怪的很，打也打不完，少侠你今天打完，明天就又会出现……</detail>
+  </say>
+
+  <say>
+    <name>不愿透露姓名的主角</name>
+    <direction>0</direction>
+    <detail>啊？这是为什么啊？</detail>
+  </say>
+
+  <say>
+    <name>村口的老头</name>
+    <direction>1</direction>
+    <detail>这，这我也不知道……不过，我们祖辈们一直守护着一个奇怪的洞口，那里边存放着先祖们对这些怪物的记载，那里兴许有对付这些怪物的方法。</detail>
+  </say>
+
+  <say>
+    <name>不愿透露姓名的主角</name>
+    <direction>0</direction>
+    <detail>那为何不去洞口中把记载对付怪物的方法学来呢？</detail>
+  </say>
+
+  <say>
+    <name>村口的老头</name>
+    <direction>1</direction>
+    <detail>这，这少侠有所不知，这洞口中有奇怪的阵法，洞中的道路不断变化宛如迷宫，而且，有些怪物还跑了进去，那可真是恐怖。</detail>
+  </say>
+
+  <say>
+    <name>村口的老头</name>
+    <direction>1</direction>
+    <detail>我们都害怕的很，所以才请少侠来……</detail>
+  </say>
+
+  <say>
+    <name>不愿透露姓名的主角</name>
+    <direction>0</direction>
+    <detail>好，好说，那我就先进去探一探，师傅也教过我判断方位的方法，不如我来试试吧！</detail>
+  </say>
+
+  <say>
+    <name>村口的老头</name>
+    <direction>1</direction>
+    <detail>好的，多，多谢少侠了！少侠往前走，到最前边的门洞后，就是我们村民守护的洞窟了。</detail>
+  </say>
+
+  <say>
+    <name>村口的老头</name>
+    <direction>1</direction>
+    <detail>不过在进去洞窟之前可以和路上的人多聊聊看，村子里的人知道的都很多呢！</detail>
+  </say>
+</dialogues>

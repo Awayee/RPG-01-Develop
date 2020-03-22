@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogues>
+  <say>
+    <name>不愿透露姓名的主角</name>
+    <direction>0</direction>
+    <detail>这位先生好生面善，不知姓甚名谁，何处人氏？</detail>
+  </say>
+  <say>
+    <name>景天</name>
+    <direction>1</direction>
+    <detail>我叫景天，风景的景，天空的天。</detail>
+  </say>
+  <say>
+    <name>不愿透露姓名的主角</name>
+    <direction>0</direction>
+    <detail>原来是新安当的景老板，久闻大名，幸会幸会！</detail>
+  </say>
+</dialogues>
